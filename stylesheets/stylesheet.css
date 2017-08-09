@@ -265,7 +265,7 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 700px;
-  padding: 20px 10px;
+  padding: 0px 0px;
   margin: 0 auto;
 }
 
@@ -294,13 +294,14 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 10px 10px 10px 10px;
 }
 
 #project_title {
   margin: 0;
   color: #fff;
   font-size: 42px;
+  margin-bottom: -25px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
