@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+*"50% Data-Science and 50% Graphics."*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a data-engineer at Zalando Dublin, working on putting machine-learning solutions in production. My main expertise is on deep-learning, computer-vision and generative-models. [Python is love]
 
-What else do you need?
+I also produce plenty of graphics by combining deep generative-models, procedural 3D art (Blender <3) and traditional drawing.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have a passion for artificial-intelligence and ALife that goes far beyond the sole working environment. Additional interests include lucid-dreaming, quantified-self, transhumanism, skiing, body-building, fitness and nutrition.
