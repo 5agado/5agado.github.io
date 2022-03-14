@@ -4,8 +4,8 @@ title: Graphics
 subtitle: 
 ---
 
-As a hobby I often fiddle around different kinds of visual graphics: traditional drawing, digital painting, animation, 3D, procedural and generative.
+As a hobby I often fiddle around different kinds of visual graphics: traditional drawing, digital painting, procedural and generative graphics.
 
-[Check out my "polished" works on Instagram](https://www.instagram.com/amartinelli1/).
+[I publish my "polished" works on Instagram](https://www.instagram.com/amartinelli1/) and document [experiments and process on Twitter](https://twitter.com/5agado).
 
 Tools of the trade: Phothoshop, Blender and my loyal Wacom Intuos Pro.   

@@ -80,7 +80,7 @@ social-network-links:
   stackoverflow: "1850482/5agado"
 #  snapchat: yourname
   instagram: amartinelli1
-#  youtube: user/yourname
+  youtube: user/sagadoexe
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: yourname
@@ -92,6 +92,8 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
+  youtube: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
