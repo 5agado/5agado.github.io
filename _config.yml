@@ -74,26 +74,20 @@ social-network-links:
 #  facebook: yourname
   github: 5agado
   twitter: 5agado
-#  reddit: yourname
   linkedin: martinellialex
-#  xing: yourname
   stackoverflow: "1850482/5agado"
-#  snapchat: yourname
   instagram: amartinelli1
   youtube: user/sagadoexe
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: yourname
-#  twitch: yourname
-#  yelp: yourname
+  threads: amartinelli1
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  github: true
   linkedin: true
   instagram: true
   youtube: true
+  threads: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

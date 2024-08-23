@@ -6,7 +6,7 @@ subtitle:
 
 Main focus and expertise on deep-learning (representation-learning and generative-models), NLP, computer-vision, statistics and data-science (data mining, analysis, prediction and visualization). [Python is love]
 
-Currently data-scientist at Zalando Dublin. Working on the design, development and deployment of machine-learning solutions in production. Manly relying on Python, Kubernetes, Tensorflow and AWS.
+Currently senior data-scientist at Zalando Dublin. Working on the design, development and deployment of machine-learning solutions in production. Manly relying on Python, Kubernetes, Tensorflow and AWS.
 
 Projects I've worked on at Zalando include:
 - named-entity-recognition and entity-linking surfaced as Scala APIs and enrichment job running on Spark.
