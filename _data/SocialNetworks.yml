@@ -93,5 +93,5 @@ yelp:
 
 threads:
   name: "Threads"
-  baseURL: "https://threads.net/@{{ site.author.threads }}"
+  baseURL: "https://threads.net/"
   icon: "fa-at"
